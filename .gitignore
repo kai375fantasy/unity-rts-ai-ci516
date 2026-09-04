@@ -1,0 +1,12 @@
+Library/
+Temp/
+obj/
+.vs/
+x64/
+Debug/
+Release/
+build/
+out/
+node_modules/
+*.user
+*.suo
